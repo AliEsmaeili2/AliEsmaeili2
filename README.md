@@ -28,7 +28,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=aliesmaeili2&theme=merko&hide_border=true&hide_title=true">
 </p>
 
-<p align="center"><h2>Most Used Laguages<h2></p>
+<p align="center"><h2>Most Used Languages<h2></p>
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&theme=merko&hide_border=true&hide_title=true&layout=compact">
 </p>
