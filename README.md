@@ -18,21 +18,39 @@
 
 
 ## GitHub Stats
+
 <!--
-<p align="center"> 
+<p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api?username=aliesmaeili2&theme=merko&hide_border=true&hide_title=true">
-</p>
--->
+</p> -->
 
 <p align="center"> 
     <img src="http://github-readme-streak-stats.herokuapp.com?user=aliesmaeili2&theme=merko&hide_border=true&hide_title=true">
 </p>
 
-<p align="center"><h2>Most Used Languages<h2></p>
+## Most Used Languages
+
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&theme=merko&hide_border=true&hide_title=true&layout=compact">
 </p>
+  
+## SPOTIFY-R-P
+  
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=1000)
+ 
 
+      
+<!--Spotify Acc
 
+Markdown code snippet:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou)
+For custom count (1 ≤ {count} ≤ 10):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count={count})
+For custom width (300 ≤ {width} ≤ 1000):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&width={width})
+For unique tracks :
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&unique={true|1|on|yes})
+
+-->
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliesmaeili2" alt="aliesmaeili2" /></a> </p> -->
