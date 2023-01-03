@@ -23,15 +23,14 @@
 </p> -->
 
 <p align="center"> 
-    <img src="https://streak-stats.demolab.com?user=aliesmaeili2&theme=elegant&(https://git.io/streak-stats)">
+    <img src="https://streak-stats.demolab.com?user=aliesmaeili2&theme=elegant">
     <!--<img src="http://github-readme-streak-stats.herokuapp.com?user=aliesmaeili2&theme=radical&hide_border=true&hide_title=true">-->
 </p>
 
 ## Most Used Languages
 
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&theme=highcontrast&hide_border=true&hide_title=true&layout=compact">
-</p>
+<p align="Center"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&langs_count=8">
   
 ## SPOTIFY-R-P
   
