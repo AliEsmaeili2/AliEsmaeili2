@@ -1,4 +1,4 @@
-<h1 align="center">print ("Hello WORLD 👋");</h1>
+<h1 align="center"></h1>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliesmaeili2&label=Profile%20views&color=0e75b6&style=flat" alt="aliesmaeili2" /> </p>-->
 
@@ -34,10 +34,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&langs_count=8&theme=radical&hide_border=true&hide_title=true">
     <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&theme=radical&hide_border=true&hide_title=true&layout=compact"> -->
 
-## SPOTIFY-R-P
+## SPOTIFY
   
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=850)
-<!--Spotify Acc
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=850)
+
+  <!--Spotify Acc
 
 Markdown code snippet:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou)
