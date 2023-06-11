@@ -11,8 +11,7 @@
 
 ## Activity
 <p align="center"> 
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aliesmaeili2&theme=xcode&hide_border=true">
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliesmaeili2&theme=xcode&area=true&hide_border=true#gh-dark-mode-only" width="100%">
   <!--color for activity graph:xcode-merko-github-compact---->
 </p> 
 
