@@ -30,12 +30,12 @@
 ## Most Used Languages
 
 <p align="Center"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&langs_count=8&theme=radical&hide_border=true&hide_title=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&langs_count=2&theme=radical&hide_border=true&hide_title=true">
     <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&theme=radical&hide_border=true&hide_title=true&layout=compact"> -->
 
 ## SPOTIFY
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=850)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=3&width=850)
 
   <!--Spotify Acc
 
