@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,js,css,html,discord,swift,wordpress,ps,idea,pr,vscode" /> </a> 
+      <img src="https://skillicons.dev/icons?i=cpp,js,css,html,discord,swift,apple,wordpress,ps,pr,vscode,stackoverflow" /> </a> 
 </p>
 
 ## Activity
